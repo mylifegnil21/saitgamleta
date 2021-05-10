@@ -11,7 +11,7 @@ exports.handler = async function Index () {
     title: 'My personal site!',
     occupation: 'Artist & Photographer',
     location: 'Magnitogorsk',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    bio: 'Я очень долго трудился над этим проектом. Почему я выбрал именно мечи. с раннего возраста. Я очень люблю фантастику, особенно всю тему связанную с мечами, оэтому я решил поделиться с некой информации и с вами.',
 
     /**
      * Contact / social
