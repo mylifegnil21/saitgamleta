@@ -1,2 +1,0 @@
-# saitgamleta
-Begin app
