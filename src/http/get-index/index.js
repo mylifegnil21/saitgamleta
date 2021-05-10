@@ -9,26 +9,26 @@ exports.handler = async function Index () {
      */
     fullname: 'сайт Гамлета!!', // ←  Start by adding your name!
     title: 'My personal site!',
-    occupation: 'Artist & Photographer',
+    occupation: 'specialist in science fiction & swords',
     location: 'Magnitogorsk',
-    bio: 'Я очень долго трудился над этим проектом. Почему я выбрал именно мечи. с раннего возраста. Я очень люблю фантастику, особенно всю тему связанную с мечами, оэтому я решил поделиться с некой информации и с вами.',
+    bio: 'Я очень долго трудился над этим проектом. Почему я выбрал именно мечи. с раннего возраста. Я очень люблю фантастику, особенно всю тему связанную с мечами, поэтому я решил поделиться некой информации и с вами. https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
+    email: 'putin@mail.ru',
+    twitter: 'elonmusk',
+    linkedin: 'https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87',
     instagram: 'fire_and_sun',
-    facebook: 'your-facebook-name',
+    facebook: 'DonaldTrump',
 
     /**
      * Layout
      */
-    photographer: 'Ivana Cajina',
-    service: 'Unsplash',
-    credit: 'https://unsplash.com/@von_co',
+    photographer: 'Hamlet Mkrtchyan',
+    service: 'Academic lyceum',
+    credit: 'https://www.instagram.com/fire_and_sun/',
     image: arc.static('background.jpg', {stagePath: false})
     // or link to an external image URL such as ↓
     // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
