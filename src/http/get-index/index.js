@@ -8,11 +8,13 @@ exports.handler = async function Index () {
      * Basic bio
      */
     fullname: 'сайт Гамлета!!', // ←  Start by adding your name!
-    title: 'My personal site!',
+    title: 'виды мечей',
     occupation: 'specialist in science fiction & swords',
     location: 'Magnitogorsk',
     bio: 'Я очень долго трудился над этим проектом. Почему я выбрал именно мечи. с раннего возраста. Я очень люблю фантастику, особенно всю тему связанную с мечами, поэтому я решил поделиться некой информации и с вами. https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87',
 
+    text: 'мечи',
+    
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
